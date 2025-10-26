@@ -1,6 +1,6 @@
 # Ankle Joint Trajectory Prediction During Gait from Dual IMU Sensors Using Bi-LSTM Networks and Transfer Learning
 
-![System Overview](https://i.imgur.com/placeholder.png) <!-- You may want to add an actual image from your paper -->
+
 
 This repository contains the implementation code and dataset for our research on predicting ankle joint trajectories using dual IMU sensors and deep learning techniques. The work was presented in the ICROM 2025 conference paper titled "Ankle Joint Trajectory Prediction During Gait from Dual IMU Sensors Using Bi-LSTM Networks and Transfer Learning".
 
