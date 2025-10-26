@@ -37,9 +37,6 @@ If you find this work useful for your research, please cite our paper:
 }
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit issues, fork the repository and send pull requests.
 
 ## 📧 Contact
 
@@ -48,10 +45,4 @@ For questions about the repository or the research:
 - Mohammad Zareinejad - [mzare@aut.ac.ir](mailto:mzare@aut.ac.ir)
 - Mohsen Bahrami - [mbahrami@aut.ac.ir](mailto:mbahrami@aut.ac.ir)
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-*This research was conducted at the Department of Mechanical Engineering, AmirKabir University of Technology, Tehran, Iran.*
