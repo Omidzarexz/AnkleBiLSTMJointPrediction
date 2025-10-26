@@ -1,5 +1,4 @@
-This repository contains the code and dataset for our research on predicting ankle joint trajectories during gait using dual IMU sensors and deep learning techniques. The work has been accepted for presentation at ICROM 2025.
-
+This repository contains the code and dataset for our research on predicting ankle joint trajectories during gait using dual IMU sensors and deep learning techniques.
 📄 Overview
 This project implements a bidirectional long short-term memory (Bi-LSTM) network to predict ankle joint angles using data from two wearable IMU sensors (mounted on shank and foot). The system was validated against optical encoder ground truth measurements and demonstrates high accuracy in predicting both short-term (200ms) and medium-term (500ms) ankle joint trajectories.
 
