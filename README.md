@@ -42,7 +42,5 @@ If you find this work useful for your research, please cite our paper:
 
 For questions about the repository or the research:
 - Omid Zare Banadkouki - [omid.zare@aut.ac.ir](mailto:omid.zare@aut.ac.ir)
-- Mohammad Zareinejad - [mzare@aut.ac.ir](mailto:mzare@aut.ac.ir)
-- Mohsen Bahrami - [mbahrami@aut.ac.ir](mailto:mbahrami@aut.ac.ir)
 
 
