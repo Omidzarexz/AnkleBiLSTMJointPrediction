@@ -24,4 +24,3 @@ This repository hosts the code and dataset accompanying our research into ankle 
 
 ---
 
-## 🗂 Repository Structure  
