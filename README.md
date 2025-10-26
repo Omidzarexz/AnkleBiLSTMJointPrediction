@@ -24,43 +24,6 @@ Our framework demonstrates:
 
 These results demonstrate that IMU sensors combined with Bi-LSTM networks can achieve accurate and generalizable prediction of ankle joint angles, providing a template for low-cost, portable gait analysis in clinical and community settings.
 
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Python 3.7+
-- TensorFlow 2.10+
-- NumPy, Pandas, Matplotlib, Scikit-learn
-
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/Omidzarexz/AnkleBiLSTMJointPrediction.git
-cd AnkleBiLSTMJointPrediction
-
-# Create virtual environment (recommended)
-python -m venv env
-source env/bin/activate  # Linux/MacOS
-# env\Scripts\activate   # Windows
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-### Training the Model
-```bash
-python models/train.py --horizon 50 --features 16
-```
-
-### Using Transfer Learning
-```bash
-# Pretrain on multiple subjects
-python models/train.py --output pretrained_model.h5
-
-# Fine-tune for a new subject
-python models/transfer_learning.py --pretrained_model pretrained_model.h5 --subject_data data/processed/subject6.npy
-```
-
 ## 📚 Citation
 
 If you find this work useful for your research, please cite our paper:
